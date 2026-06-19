@@ -6,3 +6,13 @@ export default function Home() {
     </main>
   )
 }
+
+// About page
+export function About() {
+  return (
+    <main style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
+      <h1>About Bottlenose Hello World</h1>
+      <p>This is a short description of the Bottlenose Hello World project.</p>
+    </main>
+  )
+}
