@@ -1,3 +1,5 @@
+// Hello from Bottlenose AI
+
 export default function Home() {
   return (
     <div>
